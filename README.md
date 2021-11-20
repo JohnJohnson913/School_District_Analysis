@@ -18,4 +18,14 @@ The adjustments bring the Thomas High School near the top of the performing scho
 
   # How does replacing the ninth-grade scores affect the following:
 
- - Math and reading scores by grade:  
+ - Math and reading scores by grade:  Increases the average scores for the district by removing the manipulated scores
+ - Scores by school spending: It begins to reinforce that spending may have more importance than first thought through our first analysis.  In the beginning the lowest funding per student showed the best results, this increases average scores per student.
+ - Scores by school size:  This increase in score will help emphasis that school size does have an impact on pass rates, and in the end, student success.  The data below illustrates the importance of having the proper class size.
+ - Scores by school type: Finally, this also reinforces the fact that according to the data Charter schools perform better in regards to test scores as opposed to disctrict schools.  The data below demonstates that currently success can be found more with Charter Schools.
+
+ # Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+ 
+  1. School size does matter to student success, the data change shows that mid sized schools tend to be the most successful.
+  2. Charter schools now show even more evidence that they are more successful than district schools.
+  3. Schools with increased funding may be more successful than first thought with the original data.
+  4. The data set is now smaller, and will not have the same valid sample size, and will need to be accounted for when comparing the success of Thomas High School to other years when the full data set was included due to no manipulation.
