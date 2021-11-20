@@ -20,8 +20,11 @@ The adjustments bring the Thomas High School near the top of the performing scho
 
  - Math and reading scores by grade:  Increases the average scores for the district by removing the manipulated scores
  - Scores by school spending: It begins to reinforce that spending may have more importance than first thought through our first analysis.  In the beginning the lowest funding per student showed the best results, this increases average scores per student.
+    https://github.com/JohnJohnson913/School_District_Analysis/blob/090871d55be17717426f43ab8e808d853f4fcd8e/Thomas_School_Size_and_funding_image.png
  - Scores by school size:  This increase in score will help emphasis that school size does have an impact on pass rates, and in the end, student success.  The data below illustrates the importance of having the proper class size.
+    https://github.com/JohnJohnson913/School_District_Analysis/blob/090871d55be17717426f43ab8e808d853f4fcd8e/Thomas_School_Size__Success_image.png
  - Scores by school type: Finally, this also reinforces the fact that according to the data Charter schools perform better in regards to test scores as opposed to disctrict schools.  The data below demonstates that currently success can be found more with Charter Schools.
+    https://github.com/JohnJohnson913/School_District_Analysis/blob/090871d55be17717426f43ab8e808d853f4fcd8e/Charter_vs_District_image.png
 
  # Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
  
